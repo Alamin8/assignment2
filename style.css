@@ -1,8 +1,10 @@
 
-main{
-    background-color:#E5E5E5;
+main,footer{
+    background-color:#f5f2f2;
 }
-
+.section-pad{
+    padding: 50px 0px;
+}
 .top-heading{
     font-size: 50px;
     font-weight: bold;
@@ -26,6 +28,25 @@ main{
 }
 .pink-bg{
     background-color: #FFFBF0;
+}
+.logo{
+    font-size: 32px;
+    font-weight: 700;
+}
+.logo-text{
+    color: #A4BC46;
+}
+.nav-link{
+    font-weight: 700 !important;
+    color: #3C3C3C !important;
+    margin-right: 10px !important;
+}
+.nav-link:hover{
+    color: #868585 !important;
+}
+.card-bg{
+    background-color:#f5f2f2;
+    
 }
 .card-price{
     color: #FABE4C;
@@ -62,4 +83,20 @@ main{
 }
 .toppng{
     padding: 1px 35px;
+}
+.icon{
+    width: 45%;
+}
+.card-right-item{
+    margin-left: -50px;
+}
+.card-style{
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+.xmlid{
+    width: 100%;
+}
+.footer-text{
+    text-align: center;
 }
